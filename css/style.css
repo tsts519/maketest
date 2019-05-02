@@ -181,6 +181,10 @@ h5 {
   opacity: .8;
   color: #ffffff; }
 
+.menu-logo{
+  width: 20%;
+}
+
 
 .mv {
   position: relative;
@@ -527,6 +531,9 @@ footer p {
   .entry {
     background-size: cover;
     background-attachment: fixed; }
+
+  .btn-entry a {
+    width: 30%; }
 
   .voice ul {
     width: 1040px;
